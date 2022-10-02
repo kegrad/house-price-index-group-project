@@ -19,6 +19,7 @@ Not all data from all areas exists for all time
 We could do some quality checks to make sure that smaller areas add up to the totals of their larger areas
 
 Interactive graphs of the regions and years
+
 Or maps
 
 
@@ -26,6 +27,7 @@ Or maps
 
 ## Other potentially useful links
 
+### Similar mapping ideas
 https://medium.com/@pohara60_24725/interactive-mapping-in-python-with-uk-census-data-6e571c60ff4
 
 https://stackoverflow.com/questions/46775667/plotting-uk-districts-postcode-areas-and-regions 
